@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nizahr, an <a href="https://www.linkedin.com/in/nizahr-osman/">IT Professional</a></h1>
+<h1>Hi, I'm Nizahr Osman, an <a href="https://www.linkedin.com/in/nizahr-osman/">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
