@@ -14,6 +14,10 @@
   
 <h2>Connect with me:</h2>
 
-[<img align="center" alt="Nizahr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nizahr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/nizahr-osman/
+
+[<img align="left" alt="Nizahr | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+[gmail]:  mailto:nizahrosman@gmail.com
