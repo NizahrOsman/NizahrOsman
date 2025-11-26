@@ -2,15 +2,13 @@
 
 <h2>Information Technology Projects:</h2>
 
-- <b>Virtual Machines Lab - Microsoft Azure</b>
-  - [Deploying Virtual Machines Microsoft Azure](https://github.com/NizahrOsman/Azure-Virutal-Machines-lab)
-
 - <b>osTicket (Help Desk Ticketing System) Lab</b>
-  - [osTicket Build & Deployment](https://github.com/NizahrOsman/osTicket-lab)
- 
-- <b>Microsoft Azure - Active Directory Lab</b>
-  - [Build & Deployment Active Directory](https://github.com/NizahrOsman/Active-Directory-lab)
-  
+  - [osTicket Build & Deployment(Full Ticketing System Setup](https://github.com/NizahrOsman/osTicket-lab)
+- <b>Active Directory Lab - Microsoft Azure</b>
+  - [Active Directory Deployment & Configuration](https://github.com/NizahrOsman/Active-Directory-lab)
+- <b>Virtual Machines Lab - Microsoft Azure</b>
+  - [Azure Virtual Machines Deployment](https://github.com/NizahrOsman/Azure-Virutal-Machines-lab) 
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Nizahr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
