@@ -5,9 +5,8 @@
 - <b>Virtual Machines Lab - Microsoft Azure</b>
   - [Deploying Virtual Machines Utilizing Microsoft Azure](https://github.com/NizahrOsman/Azure-Virutal-Machines-lab)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/NizahrOsman/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/NizahrOsman/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/NizahrOsman/ticket-lifecycle)
+  - [osTicket](https://github.com/NizahrOsman/osTicket-lab)
+ 
 - <b>Microsoft Azure - Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NizahrOsman/configure-ad)
   - [Configuring On-premises Active Directory within Azure VMs Pt. 2](https://github.com/NizahrOsman/configure-ad-pt2)
