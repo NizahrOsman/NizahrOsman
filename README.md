@@ -2,10 +2,10 @@
 
 <h2>Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System) Lab</b>
-  - [osTicket Build & Deployment(Full Ticketing System Setup)](https://github.com/NizahrOsman/osTicket-lab)
 - <b>Active Directory Lab - Microsoft Azure</b>
   - [Active Directory Deployment & Configuration](https://github.com/NizahrOsman/Active-Directory-lab)
+- <b>osTicket (Help Desk Ticketing System) Lab</b>
+  - [osTicket Build & Deployment(Full Ticketing System Setup)](https://github.com/NizahrOsman/osTicket-lab)
 - <b>Virtual Machines Lab - Microsoft Azure</b>
   - [Azure Virtual Machines Deployment](https://github.com/NizahrOsman/Azure-Virutal-Machines-lab) 
 
