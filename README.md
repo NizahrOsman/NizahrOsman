@@ -2,8 +2,8 @@
 
 <h2>Information Technology Projects:</h2>
 
-- <b>Deploying Virtual Machines - Microsoft Azure</b>
-  - [Deploying Virtual Machines Utilizing Microsoft Azure](https://github.com/NizahrOsman/virtual-machine-config)
+- <b>Virtual Machines Lab - Microsoft Azure</b>
+  - [Deploying Virtual Machines Utilizing Microsoft Azure](https://github.com/NizahrOsman/Azure-Virutal-Machines-lab)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NizahrOsman/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/NizahrOsman/post-install-config)
