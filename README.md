@@ -3,12 +3,13 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Virtual Machines Lab - Microsoft Azure</b>
-  - [Deploying Virtual Machines Utilizing Microsoft Azure](https://github.com/NizahrOsman/Azure-Virutal-Machines-lab)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket](https://github.com/NizahrOsman/osTicket-lab)
+  - [Deploying Virtual Machines Microsoft Azure](https://github.com/NizahrOsman/Azure-Virutal-Machines-lab)
+
+- <b>osTicket (Help Desk Ticketing System) Lab</b>
+  - [osTicket Build & Deployment](https://github.com/NizahrOsman/osTicket-lab)
  
-- <b>Microsoft Azure - Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NizahrOsman/Active-Directory-lab)
+- <b>Microsoft Azure - Active Directory Lab</b>
+  - [Build & Deployment Active Directory](https://github.com/NizahrOsman/Active-Directory-lab)
   
 <h2>Connect with me:</h2>
 
