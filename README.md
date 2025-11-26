@@ -8,8 +8,7 @@
   - [osTicket](https://github.com/NizahrOsman/osTicket-lab)
  
 - <b>Microsoft Azure - Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NizahrOsman/configure-ad)
-  - [Configuring On-premises Active Directory within Azure VMs Pt. 2](https://github.com/NizahrOsman/configure-ad-pt2)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NizahrOsman/Active-Directory-lab)
   
 <h2>Connect with me:</h2>
 
